@@ -3,13 +3,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Projem</title>
+	
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
 	<header>
-		<h1>Projem</h1>
+		<h1>Projeler</h1>
 		<nav>
 			<ul>
 				<li><a href="#hakkimizda">Hakkımızda</a></li>
