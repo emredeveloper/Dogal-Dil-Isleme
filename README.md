@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Benim Projem</title>
+	
 </head>
 <body>
 	<header>
