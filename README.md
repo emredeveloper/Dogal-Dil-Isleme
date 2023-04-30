@@ -13,7 +13,7 @@
 		<article>
 			<h2>Açıklama</h2>
 			<p>Bu projeler, Doğal Dil işleme dünyası hakkında kendimi denediğim ve öğrendiğim şeyler üzerine olacaktır.</p>
-			<img src="" >
+			
 		</article>
 	</main>
 	<footer>
